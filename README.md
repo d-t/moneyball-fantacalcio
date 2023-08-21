@@ -1,4 +1,4 @@
-# Applying the Moneyball approach to Serie A Fantasy Football Data
+# Applying Moneyball to Serie A Fantasy Football Data
 
 
 This project aims to determine which features are deemed valuable by journalists to be a successful football player in Serie A.  
